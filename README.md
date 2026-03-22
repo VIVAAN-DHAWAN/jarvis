@@ -1,4 +1,4 @@
-# jarvis
+# UNDER DEVELOPMENT
 # 🤖 Jarvis — Voice-Controlled AI Assistant for macOS
 
 A free, local, voice-controlled AI assistant for macOS. Say **"Jarvis"** and give a command — it listens, understands, and controls your Mac.
